@@ -52,6 +52,17 @@
 ---
 
 <div align="center">
+  <h3>🐍 My GitHub Contributions Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rimpu165/Readme.md/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rimpu165/Readme.md/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rimpu165/Readme.md/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
   <h3>🔥 GitHub Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimpu165&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
