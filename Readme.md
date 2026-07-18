@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://portfolio-v2-flame-beta.vercel.app/" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Working+at+Meander+Software;Always+learning+new+tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Specialist;Always+learning+new+tech;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
     <td width="50%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>💼 I'm a Full Stack Developer at <strong>Meander Software Pvt Ltd</strong></li>
+        <li>💼 I'm a passionate <strong>Full Stack Developer</strong></li>
         <li>🔭 I specialize in the <strong>MERN Stack (MongoDB, Express, React, Node)</strong></li>
         <li>🌱 I’m constantly learning and exploring <strong>Next.js, TypeScript, and modern Web Dev</strong></li>
         <li>🌐 Check out my portfolio: <strong><a href="https://portfolio-v2-flame-beta.vercel.app/" target="_blank">portfolio-v2-flame-beta.vercel.app</a></strong></li>
