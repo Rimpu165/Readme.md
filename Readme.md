@@ -62,38 +62,21 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔥 GitHub Streak</h3>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimpu165&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" width="100%" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <h3>📊 Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimpu165&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>🔥 GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimpu165&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://portfolio-v2-flame-beta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:rimpurajput165@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ripanshu-rana-4b67a3268" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rimpu165" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://portfolio-v2-flame-beta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:rimpurajput165@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/ripanshu-rana-4b67a3268" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/rimpu165" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
