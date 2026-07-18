@@ -13,24 +13,13 @@
 
 ---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>💼 I'm a passionate <strong>Full Stack Developer</strong></li>
-        <li>🔭 I specialize in the <strong>MERN Stack (MongoDB, Express, React, Node)</strong></li>
-        <li>🌱 I’m constantly learning and exploring <strong>Next.js, TypeScript, and modern Web Dev</strong></li>
-        <li>🌐 Check out my portfolio: <strong><a href="https://portfolio-v2-flame-beta.vercel.app/" target="_blank">portfolio-v2-flame-beta.vercel.app</a></strong></li>
-        <li>📫 How to reach me: <strong><a href="mailto:rimpurajput165@gmail.com">rimpurajput165@gmail.com</a></strong></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🚀 Quick Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rimpu165&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="100%" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+### 👨‍💻 About Me
+
+- 💼 I'm a passionate **Full Stack Developer**
+- 🔭 I specialize in the **MERN Stack (MongoDB, Express, React, Node)**
+- 🌱 I’m constantly learning and exploring **Next.js, TypeScript, and modern Web Dev**
+- 🌐 Check out my portfolio: **[portfolio-v2-flame-beta.vercel.app](https://portfolio-v2-flame-beta.vercel.app/)**
+- 📫 How to reach me: **[rimpurajput165@gmail.com](mailto:rimpurajput165@gmail.com)**
 
 ---
 
